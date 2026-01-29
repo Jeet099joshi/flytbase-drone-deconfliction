@@ -30,3 +30,9 @@ visualizations to clearly show conflict and no-conflict scenarios.
 ---
 
 ## Project Structure
+flytbase-drone-deconfliction/
+ strategic_deconfliction_2d.py   # 2D UAV deconfliction (x, y, time)
+ strategic_deconfliction_3d.py   # 3D / 4D UAV deconfliction (x, y, z, time)
+ README.md                       # Project documentation
+.gitignore                       # Git ignore rules
+
